@@ -1,0 +1,108 @@
+header{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: absolute;
+	left: 37%;
+	margin-top: 5px;
+	width: 50px;
+	height: 30px;
+	
+}
+.go{
+	margin-left: 0%;
+	margin-top: 14px;
+	border: darkblue;
+	background-color: darkblue;
+	color: white;
+	text-decoration: none;
+	
+}
+.virat{
+	margin-top: 20px;
+	margin-left: 25%;
+	width: 100px;
+	background-color: darkblue;
+	padding: 2px;
+	padding-left: 55px;
+
+}
+body{
+	background-color: white;
+}
+main{
+	border: 1px solid;
+	position: absolute;
+	right: 38%;
+	width: 25%;
+	height: 55%;
+	margin-top: 163px;
+	padding: 10px;
+	border-radius: 10px;
+	border-color: darkgrey;
+	box-shadow: 0 7px 0.5px darkgrey;
+	
+}
+
+
+#password{
+	border-color: white;
+	border: 1px solid white;
+	margin-left: 10%;
+	height: 20px;
+	width: 200px;
+	border-radius: 5px;
+
+}	
+#email{
+	border-color: white;
+	border: 1px solid white;
+	margin-left: 10%;
+	height: 20px;
+	width: 200px;
+	border-radius: 5px;
+
+}	
+main >p{
+	text-shadow: 1px grey;
+	text-align: left;
+
+}
+#submit{
+	width: 150px;
+	position: absolute;
+	margin-left: 24%;
+	background-color: darkblue;
+	border-color: darkblue;
+	color: white;
+
+}
+.sandeep{
+	position: absolute;
+	right: 39%;
+	margin-top: 0px;
+	font-size: 23px;
+
+}
+.aham{
+	width: 200px;
+	position: absolute;
+	right: 22%;
+}
+.rahul{
+	width: 200px;
+	background-color: darkblue;
+	color: white;
+solute;
+	right: 3%;
+}
+.hu{
+	background-color: darkblue;
+	color: white;
+	width: 200px;
+}
+main{
+	background-color: darkgrey;
+}
